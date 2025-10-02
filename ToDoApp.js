@@ -39,5 +39,7 @@ class TodoManager {
 class LocalStorageHandler {
     save(data) {
         console.log("SAVING to Local Storage:", data);
+
+        
     }
 }
